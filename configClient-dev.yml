@@ -11,7 +11,7 @@ spring:
     username: root
     password: root
 env:
-  dev3431313
+  dev
 server:
   port: 8764
 girl:
